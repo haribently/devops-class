@@ -1,7 +1,8 @@
 {
-    "name": "hello-devops",
-    "version" : "1.0.0",
-    "scripts": {
-        "test" :"node test.js"
-    }
+  "name": "hello-devops",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  }
 }

@@ -1,6 +1,5 @@
 function greet() {
-    return "Hello from Devops"
-
+  return "Hello devops";
 }
 
 module.exports = greet;
